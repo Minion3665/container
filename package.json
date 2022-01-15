@@ -1,0 +1,23 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "description": "A package that runs a simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "/usr/bin/env node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Minion3665/container.git"
+  },
+  "author": "Minion3665 & ClicksMinutePer",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Minion3665/container/issues"
+  },
+  "homepage": "https://github.com/Minion3665/container#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
