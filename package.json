@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "/usr/bin/env node index.js"
+    "container": "npm install && npm run start",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
